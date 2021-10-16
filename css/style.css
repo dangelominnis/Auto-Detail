@@ -957,7 +957,7 @@ body {
     }
 
     .nav {
-        background: var(--color-primary);
+        background: var(--color-dark-grey);
     }
     
     .nav .btn-primary {

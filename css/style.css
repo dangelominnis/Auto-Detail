@@ -1068,9 +1068,6 @@ body {
 @media only screen and (max-width: 600px) {
 
     /* Header Section */
-    .header {
-        padding: 30rem 0 8rem 0;
-    }
 
     .header-box {
         flex-direction: column;

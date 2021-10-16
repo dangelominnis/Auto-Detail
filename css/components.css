@@ -1,0 +1,40 @@
+/* Buttons */
+.btn-primary {
+    background: var(--color-secondary);
+    color: var(--color-white);
+    box-shadow: 0 .75rem .75rem rgba(0, 0, 0, 0.15);
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+    border-radius: 3px;
+    padding: 1.25rem 2rem;
+    cursor: pointer;
+    transition: .3s ease;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: garamond-premier-pro, serif;
+}
+
+.btn-primary:hover {
+    opacity: 0.6;
+}
+
+.btn-secondary {
+    background: var(--color-primary);
+    color: var(--color-white);
+    box-shadow: 0 .75rem .75rem rgba(0, 0, 0, 0.15);
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+    border-radius: 3px;
+    padding: 1.25rem 2rem;
+    cursor: pointer;
+    transition: .3s ease;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: garamond-premier-pro, serif;
+}
+
+.btn-secondary:hover {
+   opacity: 0.6;
+}
